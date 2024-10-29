@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|c:\\users\\gerar\\onedrive\\escritorio\\systeminventary\\systeminventary\\systeminventary\\systeminventary\\view\\employee\\frmemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|solutionrelative:systeminventary\\view\\employee\\frmemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\systeminventary\\view\\inventory\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|solutionrelative:systeminventary\\view\\inventory\\frminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\systeminventary\\view\\providerviews\\frmprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|solutionrelative:systeminventary\\view\\providerviews\\frmprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\systeminventary\\controller\\inventory\\controllerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|solutionrelative:systeminventary\\controller\\inventory\\controllerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\systeminventary\\model\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|solutionrelative:systeminventary\\model\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\systeminventary\\model\\dao\\inventory\\daoinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|solutionrelative:systeminventary\\model\\dao\\inventory\\daoinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\systeminventary\\model\\dto\\inventory\\dtoinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72F7898-CF52-4D60-A259-155AA09C20F9}|SystemInventary\\SystemInventary.csproj|solutionrelative:systeminventary\\model\\dto\\inventory\\dtoinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEmployees.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\View\\Employee\\FrmEmployees.cs",
+              "RelativeDocumentMoniker": "SystemInventary\\View\\Employee\\FrmEmployees.cs",
+              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\View\\Employee\\FrmEmployees.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SystemInventary\\View\\Employee\\FrmEmployees.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:15:13.955Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmProvider.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\View\\ProviderViews\\FrmProvider.cs",
+              "RelativeDocumentMoniker": "SystemInventary\\View\\ProviderViews\\FrmProvider.cs",
+              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\View\\ProviderViews\\FrmProvider.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SystemInventary\\View\\ProviderViews\\FrmProvider.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:15:07.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmInventory.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\View\\Inventory\\FrmInventory.cs",
+              "RelativeDocumentMoniker": "SystemInventary\\View\\Inventory\\FrmInventory.cs",
+              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\View\\Inventory\\FrmInventory.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SystemInventary\\View\\Inventory\\FrmInventory.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:02:34.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControllerInventory.cs",
+              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\Controller\\Inventory\\ControllerInventory.cs",
+              "RelativeDocumentMoniker": "SystemInventary\\Controller\\Inventory\\ControllerInventory.cs",
+              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\Controller\\Inventory\\ControllerInventory.cs",
+              "RelativeToolTip": "SystemInventary\\Controller\\Inventory\\ControllerInventory.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:02:28.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAOInventory.cs",
+              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\Model\\DAO\\Inventory\\DAOInventory.cs",
+              "RelativeDocumentMoniker": "SystemInventary\\Model\\DAO\\Inventory\\DAOInventory.cs",
+              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\Model\\DAO\\Inventory\\DAOInventory.cs",
+              "RelativeToolTip": "SystemInventary\\Model\\DAO\\Inventory\\DAOInventory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:02:53.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTOInventory.cs",
+              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\Model\\DTO\\Inventory\\DTOInventory.cs",
+              "RelativeDocumentMoniker": "SystemInventary\\Model\\DTO\\Inventory\\DTOInventory.cs",
+              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\Model\\DTO\\Inventory\\DTOInventory.cs",
+              "RelativeToolTip": "SystemInventary\\Model\\DTO\\Inventory\\DTOInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:03:52.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\Model\\dbContext.cs",
+              "RelativeDocumentMoniker": "SystemInventary\\Model\\dbContext.cs",
+              "ToolTip": "C:\\Users\\gerar\\OneDrive\\Escritorio\\SystemInventary\\SystemInventary\\SystemInventary\\SystemInventary\\Model\\dbContext.cs",
+              "RelativeToolTip": "SystemInventary\\Model\\dbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:18:50.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
